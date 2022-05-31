@@ -2,9 +2,12 @@
 ### Data Structure and Algorithms implementation<br/>
 LeetCode Solutions
 
-Content:<br/>
+## Content:<br/>
 
-Arrays<br/><br/>
-LinkedList<br/><br/>
-Graphs<br/><br/>
+Arrays<br/>
+<br/>
+LinkedList<br/>
+<br/>
+Graphs<br/>
+<br/>
 Trees<br/>
