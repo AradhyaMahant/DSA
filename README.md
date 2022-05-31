@@ -1,3 +1,3 @@
 # DSA
-Data Structure and Algorithms
+Data Structure and Algorithms<br/>
 LeetCode Solutions
