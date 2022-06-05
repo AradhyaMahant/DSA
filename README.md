@@ -8,8 +8,7 @@ Arrays<br/>
 <br/>
 LinkedList<br/>
 <br/>
-Stacks and queues
-<br/>
+Stacks and queues<br/>
 Graphs<br/>
 <br/>
 Trees<br/>
