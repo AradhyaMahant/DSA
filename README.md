@@ -13,3 +13,5 @@ Stacks and Queues<br/>
 Graphs<br/>
 <br/>
 Trees<br/>
+
+Searching and Sorting<br/>
